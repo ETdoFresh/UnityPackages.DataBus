@@ -1,0 +1,12 @@
+{
+  "name": "com.etdofresh.unitypackages.databus",
+  "version": "0.0.0",
+  "displayName": "ETdoFresh DataBus",
+  "description": "A DataBus where data objects send events when they are updated/changed.",
+  "type": "library",
+  "author": {
+    "name": "ETdoFresh",
+    "email": "ETdoFresh@gmail.com",
+    "url": "https://www.etdofresh.com"
+  }
+}
